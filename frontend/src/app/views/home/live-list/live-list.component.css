@@ -3,3 +3,11 @@
     padding-left: 2%;
     padding-right: 2%;
 }
+
+.lives-container {
+    padding: 2%;
+}
+
+.live-item {
+    margin: 0.5%;
+}
